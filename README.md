@@ -3,7 +3,7 @@
 I am helping Bobby's manager prepare for the upcoming "silver tsunami" as many current employees reach retirement age.
 ("The silver tsunami is a metaphore used to describe an expected boom  in the senior population")  
   
-In this project, I will help Bobby build an employee database with *SQL* by applying my *data modeling*, *engineering*, and *analysis skills*.  
+In this project, I will help Bobby build an employee database with *SQL* by applying my **data modeling**, **engineering**, and **analysis skills**.  
   
   
 ## Scenario
@@ -33,7 +33,7 @@ PH has been mainly using 6 CSV files in Excel and VBA to work with their data. P
   
 ![schema_code](images/schema_code.png)
   
-- Write basic/intermediate SQL statements.
+- Write basic/intermediate SQL statements.  
 - Work with the Postgres database system and pgAdmin interface
 
 
